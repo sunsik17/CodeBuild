@@ -1,0 +1,10 @@
+### 회원가입
+POST http://localhost:8082/members/register
+Content-Type: application/json
+
+{
+  "email": "sunsig21c@gmail.com",
+  "password": "1234",
+  "name": "남순식",
+  "phoneNumber": "01012345678"
+}

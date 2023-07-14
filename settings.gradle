@@ -1,0 +1,8 @@
+rootProject.name = 'CodeBuild'
+include 'module-common'
+include 'module-user'
+include 'module-admin'
+include 'module-client'
+include 'module-client:mailgun-client'
+findProject(':module-client:mailgun-client')?.name = 'mailgun-client'
+

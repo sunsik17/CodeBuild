@@ -1,1 +1,1 @@
-ENV root;
+ENV TEST;

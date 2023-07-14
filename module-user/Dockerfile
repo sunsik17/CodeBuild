@@ -1,1 +1,1 @@
-ENV TEST2;
+ENV TEST;

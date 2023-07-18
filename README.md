@@ -5,7 +5,7 @@
 - Modules중 Module-user를 배포했습니다.
 
 *test api*
-http://ec2-15-165-48-2.ap-northeast-2.compute.amazonaws.com:8082/ping
+http://ec2-3-34-151-37.ap-northeast-2.compute.amazonaws.com:8082/ping
 
 
 ### 아키텍처

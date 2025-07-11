@@ -5,7 +5,8 @@
 - Modules중 Module-user를 배포했습니다.
 
 *test api*
-http://ec2-3-34-151-37.ap-northeast-2.compute.amazonaws.com:8082/ping
+
+http://ec2-3-34-151-37.ap-northeast-2.compute.amazonaws.com:8082/ping (만료 테스트 불가능)
 
 
 ### 아키텍처

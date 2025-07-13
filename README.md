@@ -6,7 +6,7 @@
 
 *test api*
 
-http://ec2-3-34-151-37.ap-northeast-2.compute.amazonaws.com:8082/ping (만료 테스트 불가능)
+~~http://ec2-3-34-151-37.ap-northeast-2.compute.amazonaws.com:8082/ping~~ (만료)
 
 
 ### 아키텍처
